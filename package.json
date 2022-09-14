@@ -1,6 +1,6 @@
 {
   "name": "solapi-nestjs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Solapi Module for NestJS",
   "main": "dist/index.js",
   "types" : "dist/index.d.ts",
